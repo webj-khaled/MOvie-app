@@ -20,5 +20,5 @@ A beautiful and responsive **React Native Movie App** built with **Expo**, fetch
 - **React Navigation** (via `expo-router`)
 - **FlatList** and **ScrollView** for performant rendering
 
-## 📂 Project Structure
+
 
